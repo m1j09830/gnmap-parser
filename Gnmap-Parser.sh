@@ -7,7 +7,7 @@
 #####################################################################################
 
 # Global Variables
-parsedir=Gnmap-Parser
+parsedir=Parsed-Results
 portldir=${parsedir}/Port-Lists
 portfdir=${parsedir}/Port-Files
 portmdir=${parsedir}/Port-Matrix
